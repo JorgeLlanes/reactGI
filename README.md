@@ -17,4 +17,4 @@
 ![Screenshot (36)](SS/hard.png)
 
 ## **WEBSITE LINK**
-* [WEB]() - Hosted with Netlify
+* [WEB](https://effervescent-malasada-ce677a.netlify.app/) - Hosted with Netlify
